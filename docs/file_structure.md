@@ -122,7 +122,7 @@ xFabric/
             ├── device_list_model.h # Adapts IDeviceManager to QListView
             ├── device_list_model.cpp
             └── pipeline_graph_model.h
-                └── pipeline_graph_model.cpp
+            └── pipeline_graph_model.cpp
 ```
 
 ### Key Architectural Decisions in this Structure:
