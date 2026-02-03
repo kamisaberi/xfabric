@@ -1,0 +1,1 @@
+1. Check which types of applications can be created based on xfabric
