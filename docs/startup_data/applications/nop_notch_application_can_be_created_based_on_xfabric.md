@@ -102,3 +102,19 @@ In every single one of these examples, the winning factor isn't just "The AI Mod
 3.  **Latency:** Being fast enough for real-time action.
 
 xFabric provides these three advantages out of the box. Building these apps on xFabric is like building a game on Unreal Engine 5 versus writing your own rendering engine from scratch. You win because you focus on the *Game*, not the *Engine*.
+
+
+
+---
+
+---
+
+---
+
+---
+
+# Part 2
+
+
+
+
