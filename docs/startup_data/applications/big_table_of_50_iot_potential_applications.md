@@ -15,6 +15,10 @@ Here is the **AIoT (Artificial Intelligence of Things) Application Matrix**. The
 
 ### The xFabric AIoT Marketplace Opportunities
 
+
+
+
+
 | **#** | **Category** | **Marketplace App Name** | **What it does** | **Target Hardware** | **Why xFabric?** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1** | **Smart Home** | **NannyCam AI** | Breathing monitoring & cry detection for babies. | **Raspberry Pi / Cam** | **Privacy:** No video leaves the bedroom (Local processing). |
@@ -88,3 +92,9 @@ Here is the **AIoT (Artificial Intelligence of Things) Application Matrix**. The
 If you go down this route, your pitch changes slightly:
 **"We are the Android of IoT."**
 We provide the OS for the billions of smart devices coming online, and the App Store that monetizes them.
+
+
+
+
+
+
