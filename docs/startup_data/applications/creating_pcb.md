@@ -80,6 +80,10 @@ Look at the history of **Apple** and **Google**.
 *   **Year 5 (IPO Stage):** Custom PCB / Custom ASIC.
     *   Once you have 1 million devices running xFabric, *then* it makes sense to design a custom chip that runs `xInfer` logic in silicon for 10x speed.
 
+
+
+
+
 ### Summary
 
 **Don't become a hardware company yet.**
