@@ -1,5 +1,8 @@
 # xFabric: The Edge AI Operating System
 
+## This Project Tagged as In Future Project. Right Now development Progress is Stalled 
+
+
 [![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Commercial-blue.svg)](LICENSE)
 [![Core](https://img.shields.io/badge/Powered%20By-xInfer-orange)](https://github.com/kamisaberi/xinfer)
 [![Status](https://img.shields.io/badge/Status-Alpha-yellow)]()
