@@ -1,6 +1,6 @@
 # xFabric: The Edge AI Operating System
 
-## This Project Tagged as In Future Project. Right Now development Progress is Stalled 
+## This Project Tagged as In Future Project. Right Now development is Stalled 
 
 
 [![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Commercial-blue.svg)](LICENSE)
